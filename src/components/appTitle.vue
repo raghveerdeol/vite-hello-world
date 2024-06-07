@@ -7,5 +7,8 @@
 </template>
 
 <style scoped>
-
+h1{
+  display: flex;
+  justify-content: center;
+}
 </style>
